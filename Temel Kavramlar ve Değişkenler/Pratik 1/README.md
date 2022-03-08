@@ -1,1 +1,1 @@
-# Not ortalaması hesaplayan program
+Not ortalaması hesaplayan program
