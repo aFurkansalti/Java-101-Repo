@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/*
+Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve
+KDV tutarını hesaplayıp ekrana bastıran bir program.
+ */
+
 public class Pratik2 {
     public static void main(String[] args) {
 
