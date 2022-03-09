@@ -20,11 +20,11 @@ public class Pratik5 {
         a = input.nextDouble();
 
         area = pi * r * r * (a / 360.0);
-        String condition1 = a == 360.0 ? "Daire alanı: " : "Daire diliminin alanı: ";
+        String condition1 = (a == 360.0) ? "Daire alanı: " : "Daire diliminin alanı: ";
         System.out.println(condition1 + area + " br^2");
 
         perimeter = 2 * pi * r * (a / 360);
-        String condition2 = a == 360.0 ? "Dairenin çevresi: " : "Daire diliminin çevresi: ";
+        String condition2 = (a == 360.0) ? "Dairenin çevresi: " : "Daire diliminin çevresi: ";
         System.out.println(condition2 + perimeter + " br");
 
     }
