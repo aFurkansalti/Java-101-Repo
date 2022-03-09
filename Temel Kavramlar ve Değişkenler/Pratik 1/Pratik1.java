@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /*
-Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin
+  Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin
  sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp
-  ekrana bastıran programı yazın.
+ ekrana bastıran bir program.
  */
 
 public class Pratik1 {

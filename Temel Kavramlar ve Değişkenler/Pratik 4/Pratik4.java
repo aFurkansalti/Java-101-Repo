@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 /*
 Taksimetre Programı
-Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
+Gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran bir
+program.
  */
 
 public class Pratik4 {

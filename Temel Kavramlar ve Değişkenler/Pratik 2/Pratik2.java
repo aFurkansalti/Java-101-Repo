@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
-Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve
+Kullanıcıdan alınan para değerinin KDV'li fiyatını ve
 KDV tutarını hesaplayıp ekrana bastıran bir program.
  */
 
