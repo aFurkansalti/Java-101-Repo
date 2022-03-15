@@ -1,1 +1,0 @@
-Not ortalaması hesaplayan program

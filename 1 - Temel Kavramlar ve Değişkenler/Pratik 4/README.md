@@ -1,1 +1,0 @@
-Taksimetre Hesaplayan Program

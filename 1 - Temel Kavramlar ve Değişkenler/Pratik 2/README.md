@@ -1,1 +1,0 @@
-KDV Tutarı Hesaplayan Program

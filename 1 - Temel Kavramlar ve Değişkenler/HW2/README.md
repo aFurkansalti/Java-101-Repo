@@ -1,1 +1,0 @@
-HW - Manav Kasa Programı
