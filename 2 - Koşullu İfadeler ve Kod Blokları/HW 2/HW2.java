@@ -5,9 +5,10 @@ public class HW2 {
         
         int bYear, zod;
         Scanner input = new Scanner(System.in);
-
+         
         System.out.println("4000 bin yıldır kullanılan bir astroloji çeşididir Çin astrolojisi ve insanları 12 değişik burç ve sembollerle tanımlar. ");
         System.out.println("Çin Zodyağı bu 12 burcun eşit aralıklarla(10 derece genişliğinde) sıralandığı bir hayvan halkasıdır ve yıldızlarla pek bir ilgisi yoktur.");
+        System.out.println("Hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.")
 
         System.out.print("Doğum tarihiniz: ");
         bYear = input.nextInt();
