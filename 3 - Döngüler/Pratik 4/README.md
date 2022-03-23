@@ -1,0 +1,2 @@
+Kombinasyon hesaplayan bir program.
+
