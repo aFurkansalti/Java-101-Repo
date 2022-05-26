@@ -1,0 +1,1 @@
+Java'da nesneye yönelik programlama ile ilk kimin dövüşe başlayacağını dövüşçülerin agresifliğine göre belirleyen ve dövüşçülerin gelen hasarı savurma yetenekleri, verdikleri hasar ve can seviyeleri gibi yeteneklerine göre kazananı belirleyen bir program. 
