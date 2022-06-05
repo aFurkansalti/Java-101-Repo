@@ -12,6 +12,10 @@ public class Pratik3 {
                     matrix[row][col] = "   ";
                 }
 
+		if ((row == 3) && (col == 3)) {
+		    matrix[row][col] = "   ";
+		}
+
                 System.out.print(matrix[row][col]);
             }
             System.out.println();
